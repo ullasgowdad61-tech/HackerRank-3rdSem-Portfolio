@@ -10,7 +10,7 @@
 ## HackerRank Profile
 
 **HackerRank Profile:**  
-PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE
+https://www.hackerrank.com/profile/ullasgowdad61
 
 ## About This Repository
 
@@ -69,11 +69,17 @@ Uses a frequency map to efficiently count occurrences of query strings.
 
 ## HackerRank Submission Evidence
 
-Screenshots of the accepted HackerRank submissions will be added here.
+The `screenshots` folder contains screenshots of the accepted HackerRank submissions for the five mandatory problems.
+
+- Diagonal Difference
+- Dynamic Array
+- Time Conversion
+- Compare the Triplets
+- Sparse Arrays
 
 ## HackerRank Badge
 
-Screenshot of the earned HackerRank badge will be added here.
+The portfolio includes evidence of the earned **3-Star C++ HackerRank badge** in the `screenshots` folder.
 
 ## Learning Outcomes
 
@@ -100,6 +106,11 @@ HackerRank-3rdSem-Portfolio/
 │
 ├── Sparse-Arrays/
 │   └── solution.cpp
+│
+├── screenshots/
+│   ├── Accepted submission screenshots
+│   ├── HackerRank profile screenshot
+│   └── 3-Star C++ badge screenshot
 │
 ├── README.md
 └── .gitignore
